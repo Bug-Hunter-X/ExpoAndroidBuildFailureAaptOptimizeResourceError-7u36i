@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK. The build process fails with the error message: `Execution failed for task ':app:processDebugResources'. > A failure occurred while executing com.android.build.gradle.internal.res.AaptOptimize. > Could not read resource: /path/to/your/project/android/app/src/main/res/values/strings.xml
